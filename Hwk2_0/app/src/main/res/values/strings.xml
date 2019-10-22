@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Web Page Source Code</string>
+    <string name="enter_url_label">Enter URL:</string>
+    <string name="hint_text">www.google.com</string>
+    <string name="page_source_hint">Page source would appear here</string>
+    <string name="source_preview">Page source will appear here.</string>
+    <string name="get_page_source_butt">Get Page Source</string>
+</resources>
