@@ -1,0 +1,24 @@
+Lab 11 Documentation and Structure Edits
+
+Java Warnings
+-Removed unnecessary string cast on line 63 of LeaderBoardAdapter.java
+
+Class structure
+- added goToLeaderboard method
+- localization of variables
+- localization of constructor
+
+Declaration redundancy
+- Ignored suggestion irrelevant at this point
+
+Imports
+-Deleted unnecessary imports 
+
+Javadoc
+- added Java documentation to onBindViewHolder
+
+Verbose or redundant code constructs
+- Removed duplicate branch by removing break statement in switch in profileClicked in LeaderBoardScreen.java
+
+
+
